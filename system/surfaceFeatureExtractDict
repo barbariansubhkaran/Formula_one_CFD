@@ -1,0 +1,24 @@
+FoamFile
+{
+    version         2;
+    format          ascii;
+    class           dictionary;
+    object          surfaceFeaturesDict;
+}
+
+// Exported by SnappyHexMesh GUI add-on for Blender v1.0
+// Source file:
+// Export date: 2022-08-08 08:15:01.281166
+
+
+
+Ferrari.obj
+{
+   
+  
+    extractionMethod    extractFromSurface;
+    includedAngle   120.0;
+    geometricTestOnly   false;
+   
+
+}
